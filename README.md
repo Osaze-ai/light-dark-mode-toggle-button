@@ -1,7 +1,7 @@
+![Demo](https://github.com/Osaze-ai/light-dark-mode-toggle-button/assets/130580788/7c8c2663-73e9-4ea7-a4bf-63ca2fe82893)
 
-<img width="1280" alt="Screenshot" src="./images/Demo.gif">
 
-<div align="center">
+<div align="left">
   <h3>
     <a href="https://osaze-ai.github.io/travel-blog/" color="white">
       Live
