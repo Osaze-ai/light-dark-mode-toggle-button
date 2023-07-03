@@ -3,7 +3,7 @@
 
 <div align="left">
   <h3>
-    <a href="https://osaze-ai.github.io/travel-blog/" color="white">
+    <a href="https://osaze-ai.github.io/light-dark-mode-toggle-button/" color="white">
       Live
     </div>
       
