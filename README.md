@@ -1,5 +1,5 @@
 
-<img width="1280" alt="Screenshot" src=".">
+<img width="1280" alt="Screenshot" src="./images/Demo.gif">
 
 <div align="center">
   <h3>
