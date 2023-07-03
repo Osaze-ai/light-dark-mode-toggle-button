@@ -36,6 +36,6 @@ I developed my understanding of transition styling using css code and learnt how
 
 ## CHECK IT OUT :film_strip:
 
-<h4> <a href="https://osaze-ai.github.io/dark-light-mode-toggle-button/" color="white"> LIVE </a> </div>
+<h4> <a href="https://osaze-ai.github.io/light-dark-mode-toggle-button/" color="white"> LIVE </a> </div>
 
 
