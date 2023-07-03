@@ -1,13 +1,12 @@
 
-![Demo](https://github.com/Osaze-ai/light-dark-mode-toggle-button/assets/130580788/d3827a24-e1ab-429a-8eeb-6fc7d3e1ac23)
+<img width="1280" alt="Screenshot" src=".">
 
-<div align="left">
+<div align="center">
   <h3>
-    <a href="https://osaze-ai.github.io/dark-light-mode-toggle-button/" color="white">
-      Live Preview 
-    </a>
+    <a href="https://osaze-ai.github.io/travel-blog/" color="white">
+      Live
     </div>
-
+      
 # dark-light-mode-toggle-button
 
 ## Introduction 
